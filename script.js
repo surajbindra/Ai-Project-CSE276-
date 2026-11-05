@@ -15,10 +15,10 @@ const VENUES = [
 ];
 
 const TEAM_MEMBERS = [
-  {name:"Suraj Kumar Bindra",role:"Project Lead",description:"Led the overall project planning, requirement analysis, and coordination of team activities for the AI-based University Event Scheduling and Venue Allocation System.",photo:"Suraj photo.png"},
+  {name:"Suraj Kumar Bindra",role:"Project Lead",description:"Led the overall project planning, requirement analysis, and coordination of team activities for the AI-based University Event Scheduling and Venue Allocation System.",photo:"Suraj_photo.png"},
   {name:"Yashika Varshney",role:"AI & Algorithm Developer",description:"Designed and implemented AI-based search algorithms (BFS, DFS, A* and CSP) for intelligent venue selection using constraint-based filtering and penalty-based ranking.",photo:"",initials:"M2"},
-  {name:"Arman Nayak",role:"Frontend Developer",description:"Designed and developed a responsive, user-friendly web interface using HTML, CSS, and JavaScript for seamless event scheduling and venue booking.",photo:"Arman photo.jpeg"},
-  {name:"Poojitha",role:"Research & Documentation",description:"Prepared comprehensive project documentation, including the final project report, PowerPoint presentation (PPT), system workflow, algorithm explanations, and technical specifications.",photo:"Poojitha Photo.jpeg"}
+  {name:"Arman Nayak",role:"Frontend Developer",description:"Designed and developed a responsive, user-friendly web interface using HTML, CSS, and JavaScript for seamless event scheduling and venue booking.",photo:"Arman_photo.jpeg"},
+  {name:"Poojitha",role:"Research & Documentation",description:"Prepared comprehensive project documentation, including the final project report, PowerPoint presentation (PPT), system workflow, algorithm explanations, and technical specifications.",photo:"Poojitha_photo.jpeg"}
 ];
 
 const POLICY_DOCUMENTS = [
